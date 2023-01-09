@@ -1,12 +1,12 @@
 <table><tr><td valign="top" width="65%">
 
-## 👋 Hi there
+## 👋 Hi, I am Max
 
 - 
  
 </td><td valign="top" width="35%">
 
-## 🖥️ Fav Tech Stack
+## 🖥️ Fav tech stack
 
 - 
  
