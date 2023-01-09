@@ -4,7 +4,7 @@
 
 - 🎵 I built web and desktop apps for DJ's & Producers: Aslice
 
-📸 I built a web app for creators: Sony Alpha Universe
+- 📸 I built a web app for creators: Sony Alpha Universe
  
 </td><td valign="top" width="35%">
 
