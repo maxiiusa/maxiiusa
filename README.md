@@ -10,7 +10,9 @@
 
 ## 🖥️ Fav tech stack
 
-- 
+- GitHub | Bitbucket | GitLab
+- Jira | Trello | Asana | Wrike | TestRail
+- Confluence | Notion | Craft | Nuclino | ClickUp
  
 </tr></tr></table> 
 
