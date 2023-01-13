@@ -13,6 +13,7 @@
 - GitHub | Bitbucket | GitLab
 - Jira | Trello | Asana | Wrike | TestRail
 - Confluence | Notion | Craft | Nuclino | ClickUp
+- Figma | Sketch | Zeplin | Invision | Lucidchart
  
 </tr></tr></table> 
 
