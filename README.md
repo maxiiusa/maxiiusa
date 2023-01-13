@@ -13,6 +13,7 @@
 - GitHub | Bitbucket | GitLab
 - Jira | Trello | Asana | Wrike | TestRail
 - Confluence | Notion | Craft | Nuclino | ClickUp
+- Postman | Swagger
 - Figma | Sketch | Zeplin | Miro | Lucidchart
 - Midjourney | Stable Diffusion
  
