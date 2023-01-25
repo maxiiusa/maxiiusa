@@ -6,6 +6,8 @@
 
 - 📸 I built a web app for creators: <a href="https://alphauniverse.com/">Sony Alpha Universe<a/>
 
+- 🐶 I built a website for Aibo community: <a href="https://aibocommunity.com/">Aibo Community<a/>
+ 
 - 🏗️ I built a website for architects, designers, engineers: <a href="https://www.som.com/">SOM<a/>
  
 - 🏀 I built an NFT marketplace: <a href="https://fanmoments.co/">Fan Moments<a/>
