@@ -8,6 +8,8 @@
 
 - 🏗️ I built a website for architects, designers, engineers: <a href="https://www.som.com/">SOM<a/>
  
+- 🏀 I built an NFT marketplace: <a href="https://fanmoments.co/">Fan Moments<a/>
+ 
 </td><td valign="top" width="35%">
 
 ## 🖥️ Fav tech stack
