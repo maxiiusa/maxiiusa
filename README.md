@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Max Usatov
 
-- 🎵 I built web and desktop apps for DJ's & Producers: <a href="https://aslice.com/">Aslice<a/>
+- 🎵 I built a web and desktop app for DJ's & Producers: <a href="https://aslice.com/">Aslice<a/>
 
 - 📸 I built a web app for creators: <a href="https://alphauniverse.com/">Sony Alpha Universe<a/>
  
