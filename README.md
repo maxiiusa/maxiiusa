@@ -14,9 +14,8 @@
 - Jira | Trello | Asana | Wrike | TestRail
 - Confluence | Notion | Craft | Nuclino | ClickUp
 - Postman | Swagger
+- MySQL | MongoDB
 - Figma | Sketch | Zeplin | Miro | Lucidchart
 - Midjourney | Stable Diffusion
  
 </tr></tr></table> 
-
-
