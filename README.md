@@ -5,6 +5,8 @@
 - 🎵 I built a web and desktop app for DJ's & Producers: <a href="https://aslice.com/">Aslice<a/>
 
 - 📸 I built a web app for creators: <a href="https://alphauniverse.com/">Sony Alpha Universe<a/>
+
+- 🏗️ I built a website for architects, designers, engineers: <a href="https://www.som.com/">SOM<a/>
  
 </td><td valign="top" width="35%">
 
